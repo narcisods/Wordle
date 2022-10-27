@@ -15,3 +15,5 @@ How would I improve this application -
 Create a word randomizer
 Create different win/loss alerts
 Create a history log
+
+Created by Narciso Salvador
